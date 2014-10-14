@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewBiteWorld", "NewBiteWorld\NewBiteWorld.csproj", "{96F4B6A6-A9B7-431B-90CD-9F0F83D2AB6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRF4SLU", "CRF4SLU\CRF4SLU.csproj", "{3EB9F34A-9B25-4EA8-8E22-BACE41F1FDB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bite", "Bite\Bite.csproj", "{B480C75F-BEF9-486C-93DE-50DE0F580DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCCRFExpModel", "LCCRFExpModel\LCCRFExpModel.csproj", "{A358158A-92A2-43BD-B2F3-01ED4FA068EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{A87662E3-5ECB-41A9-B577-5D40E65639BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpMod", "ExpMod\ExpMod.csproj", "{37995EE1-BFBE-422E-8080-D56D581D2494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCFGParser", "PCFGParser\PCFGParser.csproj", "{922C0BDA-2255-4038-B6DB-7233BE38FF96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F4B6A6-A9B7-431B-90CD-9F0F83D2AB6F}.Debug|x86.ActiveCfg = Debug|x86
+		{96F4B6A6-A9B7-431B-90CD-9F0F83D2AB6F}.Release|x86.ActiveCfg = Release|x86
+		{96F4B6A6-A9B7-431B-90CD-9F0F83D2AB6F}.Release|x86.Build.0 = Release|x86
+		{3EB9F34A-9B25-4EA8-8E22-BACE41F1FDB6}.Debug|x86.ActiveCfg = Debug|x86
+		{3EB9F34A-9B25-4EA8-8E22-BACE41F1FDB6}.Debug|x86.Build.0 = Debug|x86
+		{3EB9F34A-9B25-4EA8-8E22-BACE41F1FDB6}.Release|x86.ActiveCfg = Release|x86
+		{3EB9F34A-9B25-4EA8-8E22-BACE41F1FDB6}.Release|x86.Build.0 = Release|x86
+		{B480C75F-BEF9-486C-93DE-50DE0F580DAF}.Debug|x86.ActiveCfg = Debug|x86
+		{B480C75F-BEF9-486C-93DE-50DE0F580DAF}.Debug|x86.Build.0 = Debug|x86
+		{B480C75F-BEF9-486C-93DE-50DE0F580DAF}.Release|x86.ActiveCfg = Release|x86
+		{B480C75F-BEF9-486C-93DE-50DE0F580DAF}.Release|x86.Build.0 = Release|x86
+		{A358158A-92A2-43BD-B2F3-01ED4FA068EC}.Debug|x86.ActiveCfg = Debug|x86
+		{A358158A-92A2-43BD-B2F3-01ED4FA068EC}.Debug|x86.Build.0 = Debug|x86
+		{A358158A-92A2-43BD-B2F3-01ED4FA068EC}.Release|x86.ActiveCfg = Release|x86
+		{A87662E3-5ECB-41A9-B577-5D40E65639BF}.Debug|x86.ActiveCfg = Debug|x86
+		{A87662E3-5ECB-41A9-B577-5D40E65639BF}.Debug|x86.Build.0 = Debug|x86
+		{A87662E3-5ECB-41A9-B577-5D40E65639BF}.Release|x86.ActiveCfg = Release|x86
+		{A87662E3-5ECB-41A9-B577-5D40E65639BF}.Release|x86.Build.0 = Release|x86
+		{37995EE1-BFBE-422E-8080-D56D581D2494}.Debug|x86.ActiveCfg = Debug|x86
+		{37995EE1-BFBE-422E-8080-D56D581D2494}.Debug|x86.Build.0 = Debug|x86
+		{37995EE1-BFBE-422E-8080-D56D581D2494}.Release|x86.ActiveCfg = Release|x86
+		{37995EE1-BFBE-422E-8080-D56D581D2494}.Release|x86.Build.0 = Release|x86
+		{922C0BDA-2255-4038-B6DB-7233BE38FF96}.Debug|x86.ActiveCfg = Debug|x86
+		{922C0BDA-2255-4038-B6DB-7233BE38FF96}.Debug|x86.Build.0 = Debug|x86
+		{922C0BDA-2255-4038-B6DB-7233BE38FF96}.Release|x86.ActiveCfg = Release|x86
+		{922C0BDA-2255-4038-B6DB-7233BE38FF96}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
